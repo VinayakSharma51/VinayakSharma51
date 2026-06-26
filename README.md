@@ -16,10 +16,6 @@ Software Developer • Python Developer • Flask Developer • Problem Solver
 <a href="https://linkedin.com/in/vinayak-sharma-2s">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/VinayakSharma51">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -36,7 +32,6 @@ Software Developer • Python Developer • Flask Developer • Problem Solver
 
 📚 Currently learning Data Structures & Algorithms, Machine Learning, and System Design.
 
-🏋️ Certified Fitness Trainer with an interest in building fitness-focused software solutions.
 
 ---
 
@@ -48,7 +43,6 @@ Software Developer • Python Developer • Flask Developer • Problem Solver
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -144,15 +138,7 @@ A full-stack web application built using **Python, Flask, MySQL, HTML, CSS, and 
 <!-- Replace these with your links -->
 
 <a href="#">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://leetcode.com/u/Vinayak-Sharma-51/?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 ---
