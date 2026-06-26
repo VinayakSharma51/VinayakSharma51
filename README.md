@@ -9,8 +9,8 @@ Software Developer • Python Developer • Flask Developer • Problem Solver
 </h3>
 
 <p align="center">
-<a href="mailto:vinayaksharma2528@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinayaksharma2528@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/vinayak-sharma-2s">
@@ -137,8 +137,8 @@ A full-stack web application built using **Python, Flask, MySQL, HTML, CSS, and 
 
 <!-- Replace these with your links -->
 
-<a href="#">
-<img src="https://leetcode.com/u/Vinayak-Sharma-51/?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/Vinayak-Sharma-51/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 ---
