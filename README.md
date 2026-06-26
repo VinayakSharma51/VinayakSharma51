@@ -1,89 +1,178 @@
-# Hi there 👋 I'm Vinayak Sharma
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Vinayak%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20|%20Python%20Developer%20|%20B.Tech%20CSE%20Student&descAlignY=62"/>
+</p>
 
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 
-🎓 B.Tech Computer Science Engineering Student
+<h3 align="center">
+Software Developer • Python Developer • Flask Developer • Problem Solver
+</h3>
 
-💻 Passionate about Python, Flask, Web Development, and AI
+<p align="center">
+<a href="mailto:vinayaksharma2528@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://linkedin.com/in/vinayak-sharma-2s">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📚 Currently learning Data Structures & Algorithms and Machine Learning
+<a href="https://github.com/VinayakSharma51">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### Languages
-- Python
-- C
-- C++
-- SQL
-- JavaScript
+🎓 B.Tech in Computer Science & Engineering
 
-### Web Development
-- HTML
-- CSS
-- Flask
-- Bootstrap
+🏫 Chameli Devi Group of Institutions, Indore
+
+💻 Passionate about Software Development, Backend Development, and Web Technologies.
+
+🚀 Currently building scalable web applications using Python, Flask, and MySQL.
+
+📚 Currently learning Data Structures & Algorithms, Machine Learning, and System Design.
+
+🏋️ Certified Fitness Trainer with an interest in building fitness-focused software solutions.
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+</p>
 
 ### Database
-- MySQL
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- PythonAnywhere
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Project
 
-### 🏋️ IronCore Fitness Management System
+## 🏋️ IronCore Fitness Management System
 
-A complete gym management web application featuring:
+A full-stack web application built using **Python, Flask, MySQL, HTML, CSS, and JavaScript** that automates gym operations.
 
-- Member Management
-- Trainer Dashboard
-- Attendance Tracking
-- Diet Plans
-- Payments
-- Progress Tracking
-- Admin Panel
+### Key Features
+
+- 👥 Member Management
+- 🧑‍🏫 Trainer Management
+- 📅 Attendance Tracking
+- 💳 Membership & Payment Management
+- 📈 Progress Tracking
+- 🥗 Diet Plan Management
+- 🔐 Secure Admin Dashboard
 
 ---
 
-## 📈 Currently Learning
+# 📚 Core Skills
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- REST APIs
+- Backend Development
+- Problem Solving
+
+---
+
+# 📜 Certifications
+
+🏅 AWS Academy Graduate – Cloud Foundations
+
+🏅 Smart India Hackathon 2025 – Participation Certificate
+
+🏅 Red Hat Linux Fundamentals (RH104)
+
+🏅 Infosys Springboard – Basics of Python
+
+🏅 Infosys Springboard – Programming Fundamentals using Python
+
+🏅 Udemy – 100 Days of Code: The Complete Python Pro Bootcamp
+
+🏅 Microsoft Azure Training – CDGI
+
+---
+
+# 🌱 Currently Learning
 
 - Machine Learning
 - Artificial Intelligence
-- Advanced Flask
 - System Design
+- Advanced Flask
+- Data Structures & Algorithms
 
 ---
 
-## 📫 Connect with Me
+# 💡 Coding Profiles
 
-- LinkedIn: www.linkedin.com/in/vinayak-sharma-2s
-- Email: vinayaksharma2528@gmail.com
+<!-- Replace these with your links -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# 📈 Contribution Graph
 
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayakSharma51&theme=github-dark&hide_border=true"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+# 🐍 Contribution Snake
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakSharma51&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://raw.githubusercontent.com/VinayakSharma51/VinayakSharma51/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakSharma51&layout=compact&theme=tokyonight)
+---
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Vinayak+Sharma;Python+Developer;Flask+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=VinayakSharma51&color=blue)
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+<i>"Building software that solves real-world problems, one project at a time."</i>
+</p>
