@@ -77,13 +77,13 @@ A complete gym management web application featuring:
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinayakSharma51&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakSharma51&layout=compact&theme=tokyonight)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Vinayak+Sharma;Python+Developer;Flask+Developer;Fitness+Trainer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi+I'm+Vinayak+Sharma;Python+Developer;Flask+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=VinayakSharma51&color=blue)
 
 ⭐ Thanks for visiting my profile!
