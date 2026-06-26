@@ -107,19 +107,17 @@ A full-stack web application built using **Python, Flask, MySQL, HTML, CSS, and 
 
 # 📜 Certifications
 
-🏅 AWS Academy Graduate – Cloud Foundations
-
-🏅 Smart India Hackathon 2025 – Participation Certificate
-
-🏅 Red Hat Linux Fundamentals (RH104)
-
-🏅 Infosys Springboard – Basics of Python
-
-🏅 Infosys Springboard – Programming Fundamentals using Python
-
-🏅 Udemy – 100 Days of Code: The Complete Python Pro Bootcamp
-
-🏅 Microsoft Azure Training – CDGI
+| Certification | Organization |
+|---------------|--------------|
+| AWS Academy Graduate – Cloud Foundations | AWS Academy |
+| Smart India Hackathon 2025 – Participation Certificate | SIH |
+| Red Hat Linux Fundamentals (RH104) | Red Hat |
+| C Programming Certification | Universal Informatics |
+| C++ Programming Certification | Universal Informatics |
+| Basics of Python | Infosys Springboard |
+| Programming Fundamentals using Python | Infosys Springboard |
+| 100 Days of Code: The Complete Python Pro Bootcamp | Udemy |
+| Microsoft Azure Training | CDGI |
 
 ---
 
