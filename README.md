@@ -8,6 +8,11 @@
 Software Developer • Python Developer • Flask Developer • Problem Solver
 </h3>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinayakSharma51&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <p align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinayaksharma2528@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
