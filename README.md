@@ -160,14 +160,6 @@ A full-stack web application built using **Python, Flask, MySQL, HTML, CSS, and 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/VinayakSharma51/VinayakSharma51/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
 <p align="center">
 <i>"Building software that solves real-world problems, one project at a time."</i>
 </p>
